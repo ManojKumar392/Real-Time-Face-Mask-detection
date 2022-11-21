@@ -23,3 +23,4 @@ Different dimensions
 
 ReLu and softmax architecture is used to prevent negetive values while learning and make the training process faster. The learning rate chosen for the model is 1e-4, with a batch size of 32 and was made to undergo 20 epochs. The final accuracy was close to 99 percent. Adam optimizer was used for this project to ensure faster detection.
  
+ MobileNetv2 model was imported from keras and used here to diffrentiate between physical objects.
